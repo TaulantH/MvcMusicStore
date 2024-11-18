@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MvcMusicStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MvcMusicStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\38e20d644f8b6748133228ed368faf49.jpg",
+      "PackagePath": "staticwebassets\\images\\38e20d644f8b6748133228ed368faf49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\Black White Minimalist SImple Monogram Typography Logo.png",
+      "PackagePath": "staticwebassets\\images\\Black White Minimalist SImple Monogram Typography Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\best-fast-food-restaurant-in-oakville.jpg",
+      "PackagePath": "staticwebassets\\images\\best-fast-food-restaurant-in-oakville.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\chat2",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\chat2.png",
+      "PackagePath": "staticwebassets\\images\\chat2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\chat2_.png",
+      "PackagePath": "staticwebassets\\images\\chat2_.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\chat2_2b675109-81e2-4905-af79-490e27503613.png",
+      "PackagePath": "staticwebassets\\images\\chat2_2b675109-81e2-4905-af79-490e27503613.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\chat2_4b17ea15-6e58-401e-80e4-155124b772d6.png",
+      "PackagePath": "staticwebassets\\images\\chat2_4b17ea15-6e58-401e-80e4-155124b772d6.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\chat2_71e2c81b-4a10-4c57-a57e-85cced29628f.png",
+      "PackagePath": "staticwebassets\\images\\chat2_71e2c81b-4a10-4c57-a57e-85cced29628f.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\download (1).jfif",
+      "PackagePath": "staticwebassets\\images\\download (1).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\download (2).jfif",
+      "PackagePath": "staticwebassets\\images\\download (2).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\images\\download (4).jfif",
+      "PackagePath": "staticwebassets\\images\\download (4).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\js\\App\\MusicScripts.js",
+      "PackagePath": "staticwebassets\\js\\App\\MusicScripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MvcMusicStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MvcMusicStore.props",
+      "PackagePath": "build\\MvcMusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MvcMusicStore.props",
+      "PackagePath": "buildMultiTargeting\\MvcMusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MvcMusicStore.props",
+      "PackagePath": "buildTransitive\\MvcMusicStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

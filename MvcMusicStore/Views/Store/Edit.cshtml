@@ -1,0 +1,18 @@
+﻿@{
+
+	var items = new string[] { "one", "two", "three" };
+}
+<html>
+<head>
+	<title>Sample View</title>
+</head>
+<body>
+	<h1>Listing @items.Length items.</h1>
+	<ul>
+		@foreach (var item in items)
+		{
+			<li>The item name is @item.</li>
+		}
+	</ul>
+</body>
+</html>

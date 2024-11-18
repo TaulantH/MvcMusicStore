@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<MvcMusicStore.Models.Album>
+
+<h1>Search Albums</h1>
+
+<div class="btn-group">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+        Filter by Album
+    </button>
+    <ul class="dropdown-menu">
+        <li>
+            <a class="dropdown-item" href="@Url.Action("Index", new { filterValue = "" })">All Albums</a>
+        </li>
+        @foreach (var album in Model.Select(a => a.Title).Distinct())
+        {
+            <li>
+                <a class="dropdown-item" href="@Url.Action("Index", new { filterType = "album", filterValue = album })">@album</a>
+            </li>
+        }
+    </ul>
+</div>
+
+<div class="btn-group">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+        Filter by Author
+    </button>
+
+    <ul class="dropdown-menu">
+     
+        <li>
+            <a class="dropdown-item" href="@Url.Action("Index", new { filterValue = "" })">All Authors</a>
+        </li>
+        @foreach (var author in Model.Select(a => a.Artist.Name).Distinct())
+        {
+
+            <li>
+                <a class="dropdown-item" placeholder="Select" href="@Url.Action("Index", new { filterType = "author", filterValue = author })">@author</a>
+            </li>
+        }
+    </ul>
+</div>
+
+<br />
+<br />
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card" style="width: 18rem; height:450px;" id="album-list">
+                <img src="~/@item.Image" class="card-img-top" style="height:170px" alt="Album Image">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        @Html.DisplayNameFor(model => model.Title):
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </h5>
+                    <p class="card-text">
+                        @Html.DisplayNameFor(model => model.Price):
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </p>
+                    <p class="card-text">
+                        @Html.DisplayNameFor(model => model.AlbumArtUrl):
+                        @Html.DisplayFor(modelItem => item.AlbumArtUrl)
+                    </p>
+                    <p class="card-text">
+                        @Html.DisplayNameFor(model => model.Genre):
+                        @(item.Genre != null ? Html.DisplayFor(modelItem => item.Genre.Name) : "N/A")
+                    </p>
+                    <p class="card-text">
+                        @Html.DisplayNameFor(model => model.Artist):
+                        @(item.Artist != null ? Html.DisplayFor(modelItem => item.Artist.Name) : "N/A")
+                    </p>
+
+                </div>
+                <button>Buy</button>
+            </div>
+        </div>
+    }
+</div>

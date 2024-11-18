@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MvcMusicStore.Models.Album>
+
+@if (Model != null && Model.Any())
+{
+    @foreach (var item in Model)
+    {
+     <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h3 class="panel-title">
+                    Your daily deal: @Html.DisplayFor(modelItem => item.Title)
+                </h3>
+            </div>
+            <div class="panel-body">
+                <div id="album-details">
+                    <p>
+                        <em>Artist:</em>
+                        @Html.DisplayFor(modelItem => item.Artist.Name) <!-- Assuming Artist is an object -->
+                    </p>
+                    <p>
+                        <em>Price:</em>
+                        @String.Format("{0:F2}", item.Price) <!-- Format price properly -->
+                    </p>
+                    @Html.ActionLink("Add to cart", "AddToCart", "ShoppingCart", new { id = item.AlbumId, @class = "btn btn-primary" })
+                    <!-- Assuming AlbumId is the identifier for the album to be passed -->
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <p>No album data available.</p>
+}

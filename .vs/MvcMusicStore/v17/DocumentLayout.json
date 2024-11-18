@@ -1,0 +1,822 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\albums\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\albums\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\data\\musicstoredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\data\\musicstoredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\home\\_dailydeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\home\\_dailydeal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\registers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\registers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\wwwroot\\js\\app\\musicscripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\wwwroot\\js\\app\\musicscripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\genres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\genres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\albums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\albums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241106135846_image2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241106135846_image2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\controllers\\storemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\storemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\artists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\artists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\artists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\artists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\store\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\store\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\albums\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\albums\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\genres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\genres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\genres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\genres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\mvcmusicstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\mvcmusicstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241105120627_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241105120627_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106104040_MusicStoreDBBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcMusicStore\\Migrations\\20241106104040_MusicStoreDBBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241105145439_addimatetoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241105145439_addimatetoalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\views\\genres\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\genres\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241106132005_image1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241106132005_image1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241106131827_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241106131827_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241106120510_initialcreatee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241106120510_initialcreatee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241106120739_musicstore1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241106120739_musicstore1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241107074919_listalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241107074919_listalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241112092614_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241112092614_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|c:\\users\\dell e6330\\source\\repos\\mvcmusicstore\\mvcmusicstore\\migrations\\20241112092919_register1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2F9EBF-FC3C-43EF-9BAE-4BF1BB6E2E91}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\20241112092919_register1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Albums\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Albums\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Albums\\Index.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Albums\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T13:51:22.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T10:37:37.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcMusicStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\appsettings.json",
+              "RelativeToolTip": "MvcMusicStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T11:32:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Albums\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Albums\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Albums\\Create.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Albums\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T12:10:57.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlbumsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\AlbumsController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\AlbumsController.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\AlbumsController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\AlbumsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:08:43.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:05:23.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Genres\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Index.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Genres\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:38:25.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\Genre.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:10:15.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\ArtistsController.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\ArtistsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:14:16.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Artists\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Artists\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Artists\\Index.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Artists\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:34:50.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicStoreDB.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Data\\MusicStoreDB.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Data\\MusicStoreDB.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Data\\MusicStoreDB.cs",
+              "RelativeToolTip": "MvcMusicStore\\Data\\MusicStoreDB.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:28:53.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_DailyDeal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Home\\_DailyDeal.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Home\\_DailyDeal.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Home\\_DailyDeal.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Home\\_DailyDeal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T13:52:46.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:15:24.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAIj1QObsNwB8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T08:09:12.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\RegistersController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\RegistersController.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\RegistersController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\RegistersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:31:09.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Registers\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Registers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Registers\\Create.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Registers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T09:33:55.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\Artist.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:12:28.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20241112092614_register.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241112092614_register.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241112092614_register.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241112092614_register.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241112092614_register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:26:14.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20241112092919_register1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241112092919_register1.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241112092919_register1.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241112092919_register1.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241112092919_register1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:29:19.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\UserRole.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:22:48.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\Register.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:16:57.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MusicScripts.js",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\js\\App\\MusicScripts.js",
+              "RelativeDocumentMoniker": "MvcMusicStore\\wwwroot\\js\\App\\MusicScripts.js",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\js\\App\\MusicScripts.js",
+              "RelativeToolTip": "MvcMusicStore\\wwwroot\\js\\App\\MusicScripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-07T09:05:40.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\Album.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\Album.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:17:44.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Genres\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Create.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Genres\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:36:28.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Program.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Program.cs",
+              "RelativeToolTip": "MvcMusicStore\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:26:47.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Albums\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Albums\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Albums\\Edit.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Albums\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T14:20:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241106135846_image2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106135846_image2.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241106135846_image2.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106135846_image2.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241106135846_image2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:58:46.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:06:43.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StoreManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\StoreManagerController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\StoreManagerController.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\StoreManagerController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\StoreManagerController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:16:08.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:39:37.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Artists\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Artists\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Artists\\Edit.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Artists\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:34:26.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T14:14:24.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MvcMusicStore\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MvcMusicStore\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-07T08:22:01.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Artists\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Artists\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Artists\\Create.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Artists\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:32:13.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Store\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\Edit.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Store\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:20:55.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241107074919_listAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241107074919_listAlbum.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241107074919_listAlbum.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241107074919_listAlbum.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241107074919_listAlbum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:49:19.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Albums\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Albums\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Albums\\Details.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Albums\\Details.cshtml",
+              "ViewState": "AgIAAAsAAAAA+v////8AwDMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T14:19:53.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Genres\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Delete.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Genres\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAANDMzMzPbvx4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:37:01.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Genres\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Edit.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Genres\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAmZmZmZkewCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:38:04.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcMusicStore\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcMusicStore\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T15:41:12.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241106132005_image1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106132005_image1.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241106132005_image1.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106132005_image1.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241106132005_image1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:20:05.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20241106131827_image.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106131827_image.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241106131827_image.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106131827_image.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241106131827_image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:18:28.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241106120510_InitialCreatee.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106120510_InitialCreatee.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241106120510_InitialCreatee.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106120510_InitialCreatee.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241106120510_InitialCreatee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:05:10.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MvcMusicStore.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\MvcMusicStore.csproj",
+              "RelativeDocumentMoniker": "MvcMusicStore\\MvcMusicStore.csproj",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\MvcMusicStore.csproj",
+              "RelativeToolTip": "MvcMusicStore\\MvcMusicStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T11:45:49.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20241106120739_MusicStore1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106120739_MusicStore1.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241106120739_MusicStore1.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106120739_MusicStore1.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241106120739_MusicStore1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:07:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241106104040_MusicStoreDBBB.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106104040_MusicStoreDBBB.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241106104040_MusicStoreDBBB.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241106104040_MusicStoreDBBB.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241106104040_MusicStoreDBBB.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:40:40.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241105120627_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241105120627_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241105120627_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241105120627_InitialCreate.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241105120627_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:06:27.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241105145439_AddImateToAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241105145439_AddImateToAlbum.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\20241105145439_AddImateToAlbum.cs",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Migrations\\20241105145439_AddImateToAlbum.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\20241105145439_AddImateToAlbum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:54:39.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Genres\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell E6330\\source\\repos\\MvcMusicStore\\MvcMusicStore\\Views\\Genres\\Details.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Genres\\Details.cshtml",
+              "ViewState": "AgIAAA8AAADAMjMzMzMrwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:37:19.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
